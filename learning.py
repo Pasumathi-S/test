@@ -465,14 +465,10 @@ text = "   Hello Python World  "
 # print(age + 5)  # ✅ Works fine
 
 
-product = input("Enter product name: ")
-price = float(input("Enter product price: "))
-
-print(f"{product} costs ₹{price:.2f}")
-
-
-
-
+# product = input("Enter product name: ")
+# price = float(input("Enter product price: "))
+#
+# print(f"{product} costs ₹{price:.2f}")
 
 
 
